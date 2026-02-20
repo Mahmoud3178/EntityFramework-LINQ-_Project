@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend c#\\Project1_EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218213156_InitialWithData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260218213156_InitialWithData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\data\\config\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\data\\config\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\data\\config\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\data\\config\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\data\\config\\clintconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\data\\config\\clintconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\data\\config\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\data\\config\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218212635_InitialWithData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260218212635_InitialWithData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218202309_InitialWithData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260218202309_InitialWithData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218202228_InitialWithSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260218202228_InitialWithSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\entities\\clint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\entities\\clint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218201806_InitialWithSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260218201806_InitialWithSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218201143_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260218201143_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218200823_I.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260218200823_I.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260217173218_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260217173218_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260217171939_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project1_EntityFramework\\Migrations\\20260217171939_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\project1_entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\project1_entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|d:\\backend c#\\project1_entityframework\\project1_entityframework\\appsetings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B327B11C-0724-4449-8C2D-83BFD7275BB4}|Project1_EntityFramework\\Project1_EntityFramework.csproj|solutionrelative:project1_entityframework\\appsetings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260218213156_InitialWithData.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218213156_InitialWithData.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260218213156_InitialWithData.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218213156_InitialWithData.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260218213156_InitialWithData.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAgwKcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:31:56.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Data\\Config\\EmployeeConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Data\\Config\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:15:34.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClintConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\ClintConfiguration.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Data\\Config\\ClintConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\ClintConfiguration.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Data\\Config\\ClintConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:22:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Program.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Program.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T17:30:42.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Data\\Config\\ProjectConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\ProjectConfiguration.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Data\\Config\\ProjectConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:22:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Data\\Config\\DepartmentConfiguration.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\Config\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Data\\Config\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T16:06:41.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:29:35.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Entities\\Employee.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Employee.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:50:17.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260218212635_InitialWithData.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218212635_InitialWithData.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260218212635_InitialWithData.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218212635_InitialWithData.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260218212635_InitialWithData.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:26:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Entities\\Department.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Department.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:48:38.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260218202309_InitialWithData.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218202309_InitialWithData.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260218202309_InitialWithData.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218202309_InitialWithData.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260218202309_InitialWithData.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:23:09.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260218202228_InitialWithSeed.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218202228_InitialWithSeed.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260218202228_InitialWithSeed.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218202228_InitialWithSeed.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260218202228_InitialWithSeed.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:22:28.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Clint.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Clint.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Entities\\Clint.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Clint.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Entities\\Clint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:52:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:37:16.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260218201806_InitialWithSeed.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218201806_InitialWithSeed.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260218201806_InitialWithSeed.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218201806_InitialWithSeed.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260218201806_InitialWithSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:18:06.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260218201143_Initial.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218201143_Initial.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260218201143_Initial.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218201143_Initial.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260218201143_Initial.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:11:43.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260218200823_I.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218200823_I.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260218200823_I.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260218200823_I.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260218200823_I.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:08:24.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Entities\\Project.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Entities\\Project.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Entities\\Project.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:54:47.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260217173218_intial.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260217173218_intial.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260217173218_intial.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260217173218_intial.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260217173218_intial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:32:19.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260217171939_initial.cs",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260217171939_initial.cs",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Migrations\\20260217171939_initial.cs",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Migrations\\20260217171939_initial.cs",
+              "RelativeToolTip": "Project1_EntityFramework\\Migrations\\20260217171939_initial.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T17:19:40.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Project1_EntityFramework.csproj",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Project1_EntityFramework.csproj",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\Project1_EntityFramework.csproj",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\Project1_EntityFramework.csproj",
+              "RelativeToolTip": "Project1_EntityFramework\\Project1_EntityFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T15:34:35.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsetings.json",
+              "DocumentMoniker": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\appsetings.json",
+              "RelativeDocumentMoniker": "Project1_EntityFramework\\appsetings.json",
+              "ToolTip": "D:\\backend c#\\Project1_EntityFramework\\Project1_EntityFramework\\appsetings.json",
+              "RelativeToolTip": "Project1_EntityFramework\\appsetings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T15:24:22.427Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1488,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
